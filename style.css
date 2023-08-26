@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+    body{
+        background-image: url('imagens/fundo.png');
+    }
+    h1{
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(119, 119, 0);   
+    }
+    p{
+        color: rgba(0, 0, 0, 0.658);
+    }
+    #foto{
+        padding: 10px;
+        margin: 10PX;        
+        width: 900px;
+    }
+    #menu{     
+        padding: 10px;      
+        margin: 10PX;      
+        width: 900px;      
+    }
+    #menu > a  {
+       font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 5PX;
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.658);    
+    }
+    #menu > a:hover{
+        background-color:rgba(255, 255, 255, 0.452)
+    } 
+    #conteudo{          
+        background-color: white; 
+        padding: 10px;
+        margin: 10PX;       
+        width: 900px;      
+    }   
+      
+    #email{
+        padding: 10px;       
+    }
+    #email > p {
+        color: black;
+    }
+
+ 
